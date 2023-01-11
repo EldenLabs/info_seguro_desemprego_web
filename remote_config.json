@@ -4,6 +4,6 @@
   "showAppOpenAd":true,
   "showFirstAd":true,
   "showTestAds":false,
-  "interstitialAdUnit":"ca-app-pub-3940256099942544/1033173712",
-  "openAppAdUnitId":"ca-app-pub-3940256099942544/3419835294"
+  "interstitialAdUnit":"/22405025169,22727539007/com.eldenlabs.seguro.desemprego.Interstitial",
+  "openAppAdUnitId":"/22405025169,22727539007/com.eldenlabs.seguro.desemprego.AppOpen"
 }
