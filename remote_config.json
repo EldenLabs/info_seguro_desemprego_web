@@ -1,9 +1,9 @@
 {
-  "showAds":false,
-  "adsInterval":30,
+  "showAds":true,
+  "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
   "showTestAds":false,
-  "interstitialAdUnit":"/22405025169,22727539007/com.eldenlabs.seguro.desemprego.Interstitial",
-  "openAppAdUnitId":"/22405025169,22727539007/com.eldenlabs.seguro.desemprego.AppOpen"
+  "interstitialAdUnit":"/22405025169,22870746737/com.eldenlabs.seguro.desemprego.Interstitial1",
+  "openAppAdUnitId":"/22405025169,22870746737/com.eldenlabs.seguro.desemprego.AppOpen1"
 }
