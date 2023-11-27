@@ -1,7 +1,7 @@
 {
   "showAds":true,
-  "adsInterval":60,
-  "showAppOpenAd":false,
+  "adsInterval":45,
+  "showAppOpenAd":true,
   "showFirstAd":false,
   "showTestAds":false,
   "interstitialAdUnit":"/22405025169,22870746737/com.eldenlabs.seguro.desemprego.Interstitial1",
